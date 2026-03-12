@@ -1,85 +1,136 @@
-# Hi there, I'm Ono! 👋
+# 👋 Hi, I'm Ono
 
-## 🚀 About Me
-Software Developer | Tech Enthusiast | Problem Solver
+### 🧠 Principal Data Engineer | Data Platform Architect | Lakehouse Specialist
 
-I'm passionate about building innovative solutions and continuously learning new technologies. Welcome to my GitHub profile!
+I design and build **scalable data platforms, streaming pipelines, and modern lakehouse architectures** that power enterprise analytics.
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+My work focuses on turning complex operational data into **reliable, governed, and high-performance analytical datasets**.
 
-## 💻 Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+# 🚀 What I Do
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🔹 Design **enterprise lakehouse architecture**  
+🔹 Build **real-time streaming pipelines**  
+🔹 Develop **scalable data platforms**  
+🔹 Implement **data governance & PII protection**  
+🔹 Optimize **distributed query engines**
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+---
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+# ⚙️ Technology Stack
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Data Processing
+
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+## Lakehouse
+
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-0F62FE?style=for-the-badge)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge)
+
+## Cloud Data Platform
+
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![DataWorks](https://img.shields.io/badge/DataWorks-FF6A00?style=for-the-badge)
+![Hologres](https://img.shields.io/badge/Hologres-FF6A00?style=for-the-badge)
+![MaxCompute](https://img.shields.io/badge/MaxCompute-FF6A00?style=for-the-badge)
+
+## Infrastructure & Orchestration
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 📊 GitHub Stats
+## Languages & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onolinus&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onolinus&layout=compact&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onolinus&theme=radical)
+# 📊 GitHub Analytics
 
-## 🎯 Current Focus
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and best practices
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, software architecture, and clean code
-- ⚡ Fun fact: I love solving complex problems!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onolinus&show_icons=true&theme=tokyonight)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onolinus&layout=compact&theme=tokyonight)
 
-## 🏆 Featured Projects
+![GitHub Streak](https://streak-stats.demolab.com?user=onolinus&theme=tokyonight)
 
-### [Project Name 1](https://github.com/onolinus/project1)
-Description of your awesome project. Technologies: React, Node.js, MongoDB
+---
 
-### [Project Name 2](https://github.com/onolinus/project2)
-Description of another cool project. Technologies: Python, Django, PostgreSQL
+# 🏆 Engineering Focus
 
-### [Project Name 3](https://github.com/onolinus/project3)
-Description of yet another amazing project. Technologies: TypeScript, Next.js, AWS
+Currently working on:
 
-## 📫 How to reach me
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+✔ Modern **Lakehouse Architecture** with Apache Iceberg  
+✔ **Streaming Data Platforms** with Flink & Kafka  
+✔ **Trino + Iceberg analytics** optimization  
+✔ **Real-time BI pipelines** on cloud platforms  
+✔ **Data governance & PII masking** frameworks
+
+---
+
+# 🚀 Featured Data Engineering Projects
+
+### 🏗️ Lakehouse Data Platform
+
+Enterprise analytics platform using Apache Iceberg for scalable data lake management.
+
+**Stack:**
+- Apache Iceberg
+- Trino
+- Apache Kafka
+- Apache Flink
+- Kubernetes
+
+---
+
+### ⚡ Real-Time Analytics Pipeline
+
+Streaming architecture delivering real-time dashboards and analytics.
+
+**Stack:**
+- Apache Flink
+- Kafka
+- Hologres
+- Kubernetes
+- Airflow
+
+---
+
+### 📊 Data Mart Framework
+
+Reusable architecture for building business analytics and data marts.
+
+**Stack:**
+- dbt
+- Trino
+- Apache Iceberg
+- Airflow
+
+---
+
+# 📈 Contribution Graph
+
+![Snake animation](https://github.com/onolinus/onolinus/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🤝 Let's Connect
+
+💼 **LinkedIn:** [linkedin.com/in/onolinus](https://linkedin.com/in/onolinus)
+
+🐦 **Twitter:** [@onolinus](https://twitter.com/onolinus)
+
+📧 **Email:** ono@example.com
 
 ---
 
@@ -89,8 +140,6 @@ Description of yet another amazing project. Technologies: TypeScript, Next.js, A
 
 <div align="center">
   
-### Thanks for visiting! 😊
-  
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### 📊 Turning raw data into reliable insights
 
 </div>
