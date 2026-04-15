@@ -130,7 +130,7 @@ Reusable architecture for building business analytics and data marts.
 
 🐦 **Twitter:** [@onolinus](https://twitter.com/onolinus)
 
-📧 **Email:** ono@example.com
+📧 **Email:** nanggardev@gmail.com
 
 ---
 
